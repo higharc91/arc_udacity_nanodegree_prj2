@@ -1,0 +1,1 @@
+image filter endpoint: http://udagram-beverly-imagefilter-dev-dev.us-east-1.elasticbeanstalk.com/
